@@ -1,0 +1,210 @@
+# ============================================================
+# robots.txt — omnivueai.com
+# Last updated: 2026-05-19
+# Policy: open to search engines and AI / generative crawlers.
+#         Blocked: Internet Archive, Wayback Machine, Heritrix.
+# ============================================================
+
+
+# ------------------------------------------------------------
+# Default: all crawlers welcome
+# ------------------------------------------------------------
+User-agent: *
+Allow: /
+
+
+# ------------------------------------------------------------
+# Major search engines — explicit allows (for clarity)
+# ------------------------------------------------------------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+
+# ------------------------------------------------------------
+# AI / generative engine crawlers — explicitly welcomed.
+# Listing each one makes intent unambiguous for AEO / GEO,
+# and protects allows if a future default rule changes.
+# ------------------------------------------------------------
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta / Facebook
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance / TikTok
+User-agent: Bytespider
+Allow: /
+
+# Common Crawl (powers many LLM training datasets)
+User-agent: CCBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
+# DuckDuckGo AI assistant
+User-agent: DuckAssistBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Brave Search / Leo AI
+User-agent: Bravebot
+Allow: /
+
+# xAI / Grok
+User-agent: xAI
+Allow: /
+
+# Other relevant AI / training crawlers
+User-agent: Diffbot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: Kagibot
+Allow: /
+
+
+# ------------------------------------------------------------
+# BLOCKED: Internet Archive / Wayback Machine / Heritrix
+# We do not consent to archival of this site by these crawlers.
+# ------------------------------------------------------------
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Archive.org_Bot
+Disallow: /
+
+User-agent: archive-org-bot
+Disallow: /
+
+User-agent: Wayback
+Disallow: /
+
+User-agent: Wayback Machine
+Disallow: /
+
+User-agent: WaybackArchive Bot
+Disallow: /
+
+User-agent: WaybackArchiveBot
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: Heritrix
+Disallow: /
+
+User-agent: Heritrix/3.0
+Disallow: /
+
+
+# ------------------------------------------------------------
+# Sitemap
+# ------------------------------------------------------------
+Sitemap: https://omnivueai.com/sitemap.xml
