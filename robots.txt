@@ -1,5 +1,5 @@
 # ============================================================
-# robots.txt — omnivueai.com
+# robots.txt — structaglobal.com
 # Last updated: 2026-05-19
 # Policy: open to search engines and AI / generative crawlers.
 #         Blocked: Internet Archive, Wayback Machine, Heritrix.
@@ -207,4 +207,4 @@ Disallow: /
 # ------------------------------------------------------------
 # Sitemap
 # ------------------------------------------------------------
-Sitemap: https://omnivueai.com/sitemap.xml
+Sitemap: https://structaglobal.com/sitemap.xml
