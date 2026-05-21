@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ── HOMEPAGE ──────────────────────────────────────── -->
+  <url>
+    <loc>https://www.structaglobal.com/</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/"/>
+    <image:image>
+      <image:loc>https://www.structaglobal.com/assets/og.jpg</image:loc>
+      <image:title>Structa Global - Architectural Building Materials Supplier, Kochi Kerala</image:title>
+    </image:image>
+  </url>
+
+  <!-- ── COMPANY PAGES ─────────────────────────────────── -->
+  <url>
+    <loc>https://www.structaglobal.com/about</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/about"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/about"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/our-story</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/our-story"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/our-story"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/sustainability</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/sustainability"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/sustainability"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/sustainability"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/certifications</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/certifications"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/certifications"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/careers</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/careers"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/careers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/careers"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/contact</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/contact"/>
+  </url>
+
+  <!-- ── CITY LOCATION PAGES ───────────────────────────── -->
+  <url>
+    <loc>https://www.structaglobal.com/locations/kochi</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/locations/kochi"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/locations/kochi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/locations/kochi"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/locations/trivandrum</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/locations/trivandrum"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/locations/trivandrum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/locations/trivandrum"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/locations/thrissur</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/locations/thrissur"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/locations/thrissur"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/locations/thrissur"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/locations/kozhikode</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/locations/kozhikode"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/locations/kozhikode"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/locations/kozhikode"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/locations/kottayam</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/locations/kottayam"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/locations/kottayam"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/locations/kottayam"/>
+  </url>
+
+  <!-- ── BLOG ──────────────────────────────────────────── -->
+  <url>
+    <loc>https://www.structaglobal.com/blog</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/blog"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/blog/facade-systems-kerala</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/blog/facade-systems-kerala"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/blog/facade-systems-kerala"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/blog/facade-systems-kerala"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/blog/igbc-leed-griha</loc>
+    <lastmod>2025-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/blog/igbc-leed-griha"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/blog/igbc-leed-griha"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/blog/igbc-leed-griha"/>
+  </url>
+
+  <url>
+    <loc>https://www.structaglobal.com/blog/sourcing-materials-kerala</loc>
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.structaglobal.com/blog/sourcing-materials-kerala"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://www.structaglobal.com/blog/sourcing-materials-kerala"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.structaglobal.com/blog/sourcing-materials-kerala"/>
+  </url>
+
+</urlset>

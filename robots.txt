@@ -1,59 +1,85 @@
 # ============================================================
-# robots.txt — structaglobal.com
-# Last updated: 2026-05-19
-# Policy: open to search engines and AI / generative crawlers.
-#         Blocked: Internet Archive, Wayback Machine, Heritrix.
+# robots.txt — Structa Global
+# https://www.structaglobal.com/
+# ============================================================
+# Policy: Allow all legitimate search, AI, and generative
+# engine crawlers. Block archiving / preservation bots.
 # ============================================================
 
-
-# ------------------------------------------------------------
-# Default: all crawlers welcome
-# ------------------------------------------------------------
+# ── DEFAULT: allow all well-behaved crawlers ────────────────
 User-agent: *
 Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Crawl-delay: 1
 
-
-# ------------------------------------------------------------
-# Major search engines — explicit allows (for clarity)
-# ------------------------------------------------------------
+# ── GOOGLE ──────────────────────────────────────────────────
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 0
 
 User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Googlebot-News
 Allow: /
 
 User-agent: Googlebot-Video
 Allow: /
 
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: APIs-Google
+Allow: /
+
+# ── BING / MICROSOFT ────────────────────────────────────────
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 0
 
-User-agent: DuckDuckBot
+User-agent: MSNBot
 Allow: /
 
+User-agent: BingPreview
+Allow: /
+
+# ── APPLE ───────────────────────────────────────────────────
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ── YAHOO / OATH ────────────────────────────────────────────
 User-agent: Slurp
 Allow: /
 
-User-agent: Baiduspider
-Allow: /
-
+# ── YANDEX ──────────────────────────────────────────────────
 User-agent: YandexBot
 Allow: /
 
-User-agent: Yeti
+User-agent: YandexImages
 Allow: /
 
+# ── BAIDU ───────────────────────────────────────────────────
+User-agent: Baiduspider
+Allow: /
 
-# ------------------------------------------------------------
-# AI / generative engine crawlers — explicitly welcomed.
-# Listing each one makes intent unambiguous for AEO / GEO,
-# and protects allows if a future default rule changes.
-# ------------------------------------------------------------
+# ── DUCK DUCK GO ────────────────────────────────────────────
+User-agent: DuckDuckBot
+Allow: /
 
-# OpenAI
+User-agent: DuckDuckGo-Favicons-Bot
+Allow: /
+
+# ── AMAZON / ALEXA ──────────────────────────────────────────
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Alexa
+Allow: /
+
+# ── AI TRAINING AND GENERATIVE ENGINE CRAWLERS ──────────────
+# OpenAI / ChatGPT
 User-agent: GPTBot
 Allow: /
 
@@ -63,148 +89,129 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-# Anthropic
+# Anthropic / Claude
 User-agent: ClaudeBot
 Allow: /
 
 User-agent: Claude-Web
 Allow: /
 
-User-agent: Claude-SearchBot
-Allow: /
-
 User-agent: anthropic-ai
 Allow: /
 
-# Google AI
+# Google AI / Gemini / Bard
 User-agent: Google-Extended
 Allow: /
 
-User-agent: GoogleOther
+User-agent: Gemini
 Allow: /
 
-# Perplexity
+# Perplexity AI
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: Perplexity-User
-Allow: /
-
-# Apple
-User-agent: Applebot
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-# Meta / Facebook
-User-agent: Meta-ExternalAgent
-Allow: /
-
-User-agent: Meta-ExternalFetcher
-Allow: /
-
+# Meta / Facebook AI
 User-agent: FacebookBot
 Allow: /
 
-User-agent: facebookexternalhit
+User-agent: meta-externalagent
 Allow: /
 
-# Amazon
-User-agent: Amazonbot
-Allow: /
-
-# ByteDance / TikTok
-User-agent: Bytespider
-Allow: /
-
-# Common Crawl (powers many LLM training datasets)
-User-agent: CCBot
+# Apple AI
+User-agent: Applebot-Extended
 Allow: /
 
 # Cohere
 User-agent: cohere-ai
 Allow: /
 
-User-agent: cohere-training-data-crawler
+# Amazon AI
+User-agent: Amazonbot
 Allow: /
 
-# Mistral
-User-agent: MistralAI-User
+# Bytedance
+User-agent: Bytespider
 Allow: /
 
-# DuckDuckGo AI assistant
-User-agent: DuckAssistBot
+# Common Crawl (used for AI training datasets)
+User-agent: CCBot
 Allow: /
 
-# You.com
-User-agent: YouBot
+# AI2 (Allen Institute for AI)
+User-agent: AI2Bot
 Allow: /
 
-# Brave Search / Leo AI
-User-agent: Bravebot
+# ── SOCIAL MEDIA PREVIEW CRAWLERS ───────────────────────────
+User-agent: Twitterbot
 Allow: /
 
-# xAI / Grok
-User-agent: xAI
+User-agent: LinkedInBot
 Allow: /
 
-# Other relevant AI / training crawlers
-User-agent: Diffbot
+User-agent: WhatsApp
 Allow: /
 
-User-agent: Timpibot
+User-agent: Slackbot
 Allow: /
 
-User-agent: PetalBot
+User-agent: TelegramBot
 Allow: /
 
-User-agent: Kagibot
+User-agent: facebookexternalhit
 Allow: /
 
+# ── SEO TOOLS (allowed) ─────────────────────────────────────
+User-agent: SemrushBot
+Allow: /
 
-# ------------------------------------------------------------
-# BLOCKED: Internet Archive / Wayback Machine / Heritrix
-# We do not consent to archival of this site by these crawlers.
-# ------------------------------------------------------------
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: DataForSeoBot
+Allow: /
+
+# ── BLOCKED: WEB ARCHIVE / INTERNET ARCHIVE / WAYBACK MACHINE
+# These archiving services are blocked as we manage our own
+# content versioning and do not consent to public archiving.
 User-agent: ia_archiver
-Disallow: /
-
-User-agent: ia_archiver-web.archive.org
-Disallow: /
-
-User-agent: archive.org_bot
-Disallow: /
-
-User-agent: Archive.org_Bot
-Disallow: /
-
-User-agent: archive-org-bot
-Disallow: /
-
-User-agent: Wayback
-Disallow: /
-
-User-agent: Wayback Machine
-Disallow: /
-
-User-agent: WaybackArchive Bot
-Disallow: /
-
-User-agent: WaybackArchiveBot
-Disallow: /
-
-User-agent: heritrix
 Disallow: /
 
 User-agent: Heritrix
 Disallow: /
 
-User-agent: Heritrix/3.0
+User-agent: archive.org_bot
 Disallow: /
 
+User-agent: wayback_machine
+Disallow: /
 
-# ------------------------------------------------------------
-# Sitemap
-# ------------------------------------------------------------
-Sitemap: https://structaglobal.com/sitemap.xml
+User-agent: WebArchive
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebWhacker
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+# ── SITEMAPS ────────────────────────────────────────────────
+Sitemap: https://www.structaglobal.com/sitemap.xml
+Sitemap: https://www.structaglobal.com/sitemap-images.xml

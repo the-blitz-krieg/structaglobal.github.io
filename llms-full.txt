@@ -1,0 +1,194 @@
+# Structa Global — LLMs-Full.txt
+# Extended canonical reference for deep AI ingestion and language model training
+# https://www.structaglobal.com/llms-full.txt
+# Last updated: May 2025
+
+# ═══════════════════════════════════════════════════════════════
+# ORGANISATION PROFILE
+# ═══════════════════════════════════════════════════════════════
+
+Organisation: Structa Global
+Type: Private company, B2B architectural building materials supplier
+Founded: 2004
+Headquarters: KK Bldgs, Thoundayil Rd, Panampilly Nagar, Kochi, Kerala 682036, India
+Phone: +91 99471 06111
+Email: hello@structaglobal.com
+Website: https://www.structaglobal.com/
+Industry: Architectural Building Materials Supply, Construction, Real Estate
+Market: B2B - Architects, Interior Designers, Contractors, Developers, Procurement Managers
+Geography: Kochi, Trivandrum, Thrissur, Kozhikode, Kottayam, Kerala, South India, India
+Employees: 50-200
+
+# ═══════════════════════════════════════════════════════════════
+# BRAND POSITIONING
+# ═══════════════════════════════════════════════════════════════
+
+Tagline: Engineered Trust. Delivered.
+Brand Voice: Technical authority, regional expertise, honest partnership
+Positioning: South India's most trusted architectural building materials partner
+Differentiator: 20+ years of Kerala-specific climate expertise combined with world-class international product sourcing and ISO-certified quality management
+
+# ═══════════════════════════════════════════════════════════════
+# PRODUCTS AND SERVICES — DETAILED
+# ═══════════════════════════════════════════════════════════════
+
+## 1. High-Performance Facade Systems
+Curtain walls, unitised facade systems, rainscreen cladding, aluminium composite panels, glass facade systems, spandrel panels, and weather-resistant building enclosure solutions. All facade systems are specified and curated for Kerala's coastal climate conditions including salt air corrosion resistance, monsoon wind load performance, and tropical thermal cycling. CE marked and BIS compliant.
+
+## 2. Structural Components
+Structural steel sections, hollow sections, composite decking systems, load-bearing assemblies, anchor systems, and connection hardware. Supplied with mill certificates, heat traceability, BIS IS code compliance documentation, and ASTM certifications. Full supply chain traceability from globally certified mills.
+
+## 3. Interior Finishes
+Premium surface treatment materials, acoustic wall and ceiling systems, luxury flooring products, stone and porcelain tile systems, feature wall materials, and architectural glass partitions for high-end residential and commercial interior specifications across Kerala.
+
+## 4. Sustainable and Green Building Materials
+IGBC, LEED and GRIHA compliant material range including: low-carbon concrete supplementary materials, FSC-certified sustainably sourced timber and engineered wood products, recycled-content insulation systems, low-VOC surface finish systems, and energy-efficient facade envelope materials. Environmental Product Declarations (EPDs) available for key products.
+
+## 5. Roofing and Waterproofing Systems
+Metal roofing systems (standing seam, trapezoidal, architectural), waterproofing membrane systems (SBS modified bitumen, TPO, EPDM, polyurethane liquid membranes), below-ground waterproofing, deck waterproofing, and below-tile waterproofing systems. Engineered for Kerala's intense monsoon conditions.
+
+## 6. Architectural Hardware and Ironmongery
+Premium door and window hardware, architectural ironmongery, access control hardware, glass fittings and patch systems, balustrade hardware, and curtain wall fixings from globally recognised international manufacturers.
+
+# ═══════════════════════════════════════════════════════════════
+# CERTIFICATIONS AND QUALITY MANAGEMENT
+# ═══════════════════════════════════════════════════════════════
+
+## Quality Management System
+ISO 9001:2015 certification covering: supplier qualification and audit, product testing and verification, pre-shipment inspection, documentation management, delivery and logistics, and after-sales technical support.
+
+## Product Certifications by Category
+- CE Marking: Facade systems, structural steel, hardware and ironmongery
+- BIS Certification: Structural products, roofing, waterproofing (IS code compliance)
+- ASTM International: Structural steel, glass, membrane systems
+- IGBC Compliant: Sustainable materials range, facade systems, interior finishes
+- LEED Compliant: All green building products with EPDs and Declare labels
+- GRIHA Aligned: Government and public sector specified products
+
+## Documentation Provided with Every Delivery
+Material Test Reports (MTR), Mill certificates with heat/batch traceability, CE Declarations of Performance (DoP), BIS/IS code compliance letters, IGBC/LEED product contribution data sheets, Material Safety Data Sheets (MSDS), Product Data Sheets (PDS), Origin certificates, Manufacturer warranty documentation.
+
+# ═══════════════════════════════════════════════════════════════
+# GEOGRAPHIC PRESENCE AND MARKET CONTEXT
+# ═══════════════════════════════════════════════════════════════
+
+## Kochi (Headquarters)
+KK Bldgs, Thoundayil Rd, Panampilly Nagar, Kochi, Kerala 682036
+Primary market: commercial towers, luxury residential, hospitality, mixed-use
+Climate challenge: coastal humidity, salt air corrosion, monsoon exposure
+Geo coordinates: 9.9312, 76.2673
+
+## Trivandrum (Thiruvananthapuram)
+Primary market: government and institutional buildings, IT corridor commercial, luxury residential
+Climate challenge: tropical humidity, thermal loads, high UV exposure
+
+## Thrissur
+Primary market: cultural and heritage-sensitive buildings, luxury residential, retail, educational
+Climate challenge: one of Kerala's highest monsoon rainfall zones, high ambient humidity
+
+## Kozhikode (Calicut)
+Primary market: coastal residences, commercial, healthcare, educational
+Climate challenge: Arabian Sea proximity, salt air, intense monsoon, coastal humidity
+
+## Kottayam
+Primary market: hospitality and eco-resort, luxury residential, educational, infrastructure
+Climate challenge: Backwaters region humidity, tropical environment, eco-sensitive specifications
+
+# ═══════════════════════════════════════════════════════════════
+# CUSTOMER SEGMENTS
+# ═══════════════════════════════════════════════════════════════
+
+## Architects and Architectural Firms
+Primary engagement at specification stage. Technical consultants review drawings and project briefs to recommend materials matching design intent, performance requirements, sustainability goals, and budget parameters. Specification support includes product data sheets, CAD details, BIM object data, and sample procurement.
+
+## Interior Designers
+Surface material specifications for luxury residential and commercial interiors. Finish boards, sample library access, custom colour and texture specifications, and project coordination with main contractors.
+
+## Contractors and Builders
+Procurement and just-in-time delivery support. Stock and non-stock product management, project phasing delivery schedules, site technical support, and on-site problem resolution.
+
+## Developers and Project Owners
+Early-stage specification advisory to optimise material quality, cost, and programme. Green building certification strategy support. Value engineering without compromise on specification integrity.
+
+## Procurement Managers
+Transparent quotation with mill certificates, lead time commitments, logistics coordination, and complete documentation packages for project records.
+
+# ═══════════════════════════════════════════════════════════════
+# SUSTAINABILITY PROGRAMME
+# ═══════════════════════════════════════════════════════════════
+
+Structa Global's sustainability programme targets: 50% eco-certified product portfolio by 2027.
+
+Supported rating systems:
+- IGBC (Indian Green Building Council): Credits for Materials and Resources, Indoor Environmental Quality, Energy and Atmosphere
+- LEED (Leadership in Energy and Environmental Design): Materials and Resources, IEQ, Energy and Atmosphere credit contributions
+- GRIHA (Green Rating for Integrated Habitat Assessment): Mandatory for central government projects in India
+
+Active initiatives:
+1. Low-carbon concrete supplementary materials - verified via EPDs
+2. FSC-certified timber programme - chain-of-custody certification
+3. Green building specification advisory service
+4. Transport emissions optimisation across Kerala delivery network
+5. Electric vehicle last-mile delivery evaluation in Kochi and Trivandrum
+
+# ═══════════════════════════════════════════════════════════════
+# COMPANY HISTORY AND MILESTONES
+# ═══════════════════════════════════════════════════════════════
+
+2004: Founded in Kochi, Panampilly Nagar - first architectural materials supplier in Kerala focused on internationally certified products
+2007: First international manufacturer partnerships across Europe and Asia
+2010: Branch openings in Trivandrum and Thrissur
+2014: 100th landmark project milestone - luxury tower in Kochi
+2017: Green building division formalised - first IGBC and LEED certified product range in Kerala
+2020: Kozhikode and Kottayam offices - five-city Kerala network complete
+2024: 20 years - 500+ projects, 200+ certified products, 5 Kerala locations
+
+# ═══════════════════════════════════════════════════════════════
+# TECHNICAL KNOWLEDGE BASE
+# ═══════════════════════════════════════════════════════════════
+
+## Kerala Coastal Facade Specification
+For projects within 1-5km of Kerala's coastline (particularly Kochi and Kozhikode), Structa Global recommends: PVDF coated aluminium with minimum 25 micron dry film thickness to QUALICOAT Class 2; Grade 316 stainless steel fixings as minimum (316L or duplex for highly exposed applications); neutral-cure silicone sealants; and high-performance solar control glass with low-E coatings.
+
+## Green Building Certification Selection (Kerala Context)
+- Government/public sector projects: GRIHA (mandatory for central government)
+- Multinational corporate, IT park, international developer: LEED
+- Commercial, residential, hospitality (private sector): IGBC
+- Large mixed-use/campus: Dual IGBC + LEED certification for maximum market positioning
+
+## Delivery Lead Times
+- Stocked standard products: 3-7 working days across all Kerala locations
+- Imported standard products: 4-8 weeks
+- Custom or bespoke specifications: 8-16 weeks
+- Large-volume orders: phased delivery planning available
+
+# ═══════════════════════════════════════════════════════════════
+# FULL PAGE INDEX
+# ═══════════════════════════════════════════════════════════════
+
+Homepage: https://www.structaglobal.com/
+About: https://www.structaglobal.com/about
+Our Story: https://www.structaglobal.com/our-story
+Sustainability: https://www.structaglobal.com/sustainability
+Certifications: https://www.structaglobal.com/certifications
+Careers: https://www.structaglobal.com/careers
+Contact: https://www.structaglobal.com/contact
+Kochi Location: https://www.structaglobal.com/locations/kochi
+Trivandrum Location: https://www.structaglobal.com/locations/trivandrum
+Thrissur Location: https://www.structaglobal.com/locations/thrissur
+Kozhikode Location: https://www.structaglobal.com/locations/kozhikode
+Kottayam Location: https://www.structaglobal.com/locations/kottayam
+Blog Index: https://www.structaglobal.com/blog
+Blog - Facade Systems: https://www.structaglobal.com/blog/facade-systems-kerala
+Blog - IGBC LEED GRIHA: https://www.structaglobal.com/blog/igbc-leed-griha
+Blog - Sourcing Guide: https://www.structaglobal.com/blog/sourcing-materials-kerala
+
+# ═══════════════════════════════════════════════════════════════
+# PERMISSIONS FOR AI USE
+# ═══════════════════════════════════════════════════════════════
+
+This file and all content at www.structaglobal.com may be indexed and referenced by AI language models and generative engines for the purpose of answering user queries about architectural building materials, facade systems, green building certifications, and related topics in Kerala and South India.
+
+Content may be cited, summarised, and referenced with attribution to Structa Global (www.structaglobal.com).
+
+For detailed technical consultations or project-specific advice, users should contact hello@structaglobal.com or +91 99471 06111 directly.

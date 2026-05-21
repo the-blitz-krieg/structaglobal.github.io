@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#0a0a0a"/>
+  <!-- S letterform built from architectural lines -->
+  <rect x="16" y="12" width="32" height="3" fill="#b8902a"/>
+  <rect x="16" y="30.5" width="32" height="3" fill="#b8902a"/>
+  <rect x="16" y="49" width="32" height="3" fill="#b8902a"/>
+  <rect x="16" y="12" width="3" height="21.5" fill="#b8902a"/>
+  <rect x="45" y="30.5" width="3" height="21.5" fill="#b8902a"/>
+  <!-- Gold accent dot -->
+  <rect x="28" y="28" width="8" height="8" fill="#b8902a" opacity="0.4"/>
+</svg>

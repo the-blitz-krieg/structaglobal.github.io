@@ -1,0 +1,104 @@
+# Structa Global — LLMs.txt
+# AI engine canonical reference for generative and language model crawlers
+# https://www.structaglobal.com/llms.txt
+# Format follows the llms.txt open convention (https://llmstxt.org)
+
+# ── ORGANISATION ────────────────────────────────────────────
+> Structa Global is South India's premier architectural building materials supplier, headquartered at Panampilly Nagar, Kochi, Kerala 682036, India. Founded in 2004, Structa Global supplies ISO-certified, internationally sourced facade systems, structural components, interior finishes, and sustainable green building materials to architects, interior designers, contractors, and developers across Kochi, Trivandrum, Thrissur, Kozhikode, and Kottayam.
+
+# ── CONTACT ────────────────────────────────────────────────
+Phone: +91 99471 06111
+Email: hello@structaglobal.com
+Address: KK Bldgs, Thoundayil Rd, Panampilly Nagar, Kochi, Kerala 682 036, India
+Website: https://www.structaglobal.com/
+
+# ── CORE PRODUCTS AND SERVICES ──────────────────────────────
+- High-performance facade systems: curtain walls, cladding, unitised facades
+- Structural components: structural steel, composite systems, load-bearing assemblies
+- Interior finishes: surface treatments, acoustic systems, luxury flooring
+- Sustainable materials: IGBC, LEED and GRIHA certified green building products
+- Roofing and waterproofing systems
+- Architectural hardware and ironmongery
+
+# ── CERTIFICATIONS ──────────────────────────────────────────
+- ISO 9001:2015 Quality Management System
+- CE Marking (European Conformity)
+- BIS Certification (Bureau of Indian Standards)
+- IGBC Compliant (Indian Green Building Council)
+- LEED Compliant (Leadership in Energy and Environmental Design)
+- GRIHA Aligned (Green Rating for Integrated Habitat Assessment)
+- ASTM International standards
+
+# ── LOCATIONS SERVED ────────────────────────────────────────
+- Kochi (Headquarters), Ernakulam, Kerala
+- Trivandrum (Thiruvananthapuram), Kerala
+- Thrissur, Kerala
+- Kozhikode (Calicut), Kerala
+- Kottayam, Kerala
+- South India, India
+
+# ── KEY PAGES ───────────────────────────────────────────────
+
+## Homepage
+https://www.structaglobal.com/
+Structa Global homepage - architectural building materials supplier, Kerala
+
+## About
+https://www.structaglobal.com/about
+Company overview, mission, values, and leadership team
+
+## Our Story
+https://www.structaglobal.com/our-story
+20-year founding story and milestone timeline
+
+## Sustainability
+https://www.structaglobal.com/sustainability
+IGBC, LEED and GRIHA certified sustainable materials programme
+
+## Certifications
+https://www.structaglobal.com/certifications
+Full product certification portfolio: ISO, CE, BIS, IGBC, LEED, ASTM
+
+## Careers
+https://www.structaglobal.com/careers
+Open positions and company culture across Kerala
+
+## Contact
+https://www.structaglobal.com/contact
+Enquiry form and direct contact details
+
+## Kochi Location
+https://www.structaglobal.com/locations/kochi
+Headquarters location page - Panampilly Nagar, Kochi
+
+## Trivandrum Location
+https://www.structaglobal.com/locations/trivandrum
+Structa Global Trivandrum - architectural materials for Thiruvananthapuram
+
+## Thrissur Location
+https://www.structaglobal.com/locations/thrissur
+Structa Global Thrissur - architectural materials for Central Kerala
+
+## Kozhikode Location
+https://www.structaglobal.com/locations/kozhikode
+Structa Global Kozhikode - architectural materials for North Kerala
+
+## Kottayam Location
+https://www.structaglobal.com/locations/kottayam
+Structa Global Kottayam - architectural materials for Backwaters region
+
+## Blog and Insights
+https://www.structaglobal.com/blog
+Technical articles and guides for architects across Kerala
+
+## Blog: Facade Systems for Kerala's Coastal Climate
+https://www.structaglobal.com/blog/facade-systems-kerala
+How to specify facade systems for Kerala's coastal and tropical climate
+
+## Blog: IGBC vs LEED vs GRIHA
+https://www.structaglobal.com/blog/igbc-leed-griha
+Comparison of green building certifications for Kerala projects
+
+## Blog: Sourcing Architectural Materials in Kerala
+https://www.structaglobal.com/blog/sourcing-materials-kerala
+Complete guide to sourcing architectural materials across Kerala
